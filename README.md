@@ -11,7 +11,7 @@ Autores: Jose Pablo Hidalgo Navarro y Jose Alberto Ruiz Mendoza.
 
 21 pantallas organizadas según el árbol de navegación:
 
-- **Acceso:** ingreso con GAUDI, huella o usuario y contraseña
+- **Acceso:** ingreso únicamente con la firma digital GAUDI
 - **Mis cuentas:** ver cuentas, añadir cuenta, bloquear cuenta, gestionar alertas
 - **Transacciones:** enviar dinero (SINPE Móvil), mover dinero entre cuentas, gestionar beneficiarios, pagos programados, movimientos, divisas
 - **Estadísticas:** gráfico de pagos, distribución de monto por cuenta, pagos por beneficiario, exportar archivo
